@@ -10,9 +10,9 @@ Olá, Bem vindo ao meu projeto de portfólio.
 
 * Flex-box
 
-Feito por:
+## Feito por:
 
-Diego Higuchi
+### Diego Higuchi
 
 ### Linkedin: https://www.linkedin.com/in/diego-higuchi/
 
